@@ -1,3 +1,3 @@
 ## Helloo Git!
 
-- this for learning git
+- this backup from main branch, and edited the readme. Hooray!!!
